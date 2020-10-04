@@ -1,0 +1,8 @@
+Updating ImageMatch project to use Node.js and run on my tablet so it is more useful.
+
+One artistic endeavor of mine is to create custom "full art" basic lands for use in the Magic the Gathering card game. This is done by finding card artworks that match well with basic land artworks such that they can be cut out and combined via the "foil peel" alteration technique and create the illusion of a single large art image.
+
+The purpose of the ImageMatch project is to increase efficiency of identifying good matches and acquiring cards by managing card and match data, streamlining workflow, and automatically generating tasks to perform.
+
+See /example for a sample result of combining basic land "a.png" with card "b.jpg" to create the product "matched.png", and then performing the alteration on real cards to make "physical.jpg".
+
